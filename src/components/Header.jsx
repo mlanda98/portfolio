@@ -1,4 +1,3 @@
-/*
 import React from "react";
 import { useState } from "react";
 
@@ -37,17 +36,6 @@ export default function Header() {
           </li>
         </ul>
       </nav>
-    </header>
-  );
-}
-*/
-
-import React from "react";
-
-export default function Header() {
-  return (
-    <header className="bg-sky-600 p-4 text-white font-bold">
-      My Portfolio Header
     </header>
   );
 }
