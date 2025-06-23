@@ -6,10 +6,28 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
-export default function App() {
+function App() {
   return (
-    <div className="bg-red-500 text-white p-10 text-3xl">
-      Tailwind is working?
+    <div className="bg-white text-slate-900 scroll-smooth">
+      <Header />
+      <main>
+        <section id="hero">
+          <Hero />
+        </section>
+        <section id="projects">
+          <Projects />
+        </section>
+        <section id="about">
+          <About />
+        </section>
+        <section id="contact">
+          <Contact />
+        </section>
+      </main>
+      <Footer />
     </div>
   );
 }
+
+export default App;
+
