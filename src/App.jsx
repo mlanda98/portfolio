@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
+import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
@@ -11,15 +11,16 @@ function App() {
     <div className="bg-white text-slate-900 scroll-smooth">
       <Header />
       <main>
-        <section id="hero">
-          <Hero />
+        <section id="about">
+          <About />
+        </section>
+        <section id="experience">
+          <Experience />
         </section>
         <section id="projects">
           <Projects />
         </section>
-        <section id="about">
-          <About />
-        </section>
+
         <section id="contact">
           <Contact />
         </section>
