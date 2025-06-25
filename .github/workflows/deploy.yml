@@ -3,7 +3,7 @@ name: Deploy React Portfolio
 on:
   push:
     branches:
-      - main   # or your default branch name
+      - main # or your default branch name
 
 jobs:
   build-and-deploy:
@@ -30,4 +30,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           # If your repo is a user repo, remove 'destination_branch' below
-          destination_branch: gh-pages
+          publish_branch: gh-pages
