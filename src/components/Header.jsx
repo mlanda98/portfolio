@@ -2,7 +2,7 @@ import React from "react";
 
 // You can replace these with your actual URLs
 const resumeUrl = "https://yourdomain.com/Mayra_Resume.pdf";
-const contactEmail = "mailto:mayra@example.com";
+const contactEmail = "mailto:mlandae16@gmail.com";
 
 export default function Header() {
   return (
