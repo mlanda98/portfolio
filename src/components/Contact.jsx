@@ -37,7 +37,7 @@ export default function Contact() {
           <FaGithub />
         </a>
         <a
-          href="/resume.pdf"
+          href="/portfolio/Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-sky-800 transition"
