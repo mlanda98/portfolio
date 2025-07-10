@@ -29,7 +29,6 @@ export default function Contact() {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/mlanda98"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-sky-800 transition"
