@@ -21,7 +21,7 @@ export default function Contact() {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/mayra-landa23"
+          href="https://www.linkedin.com/in/mayra-landa-7480853a4"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-sky-800 transition"

@@ -44,7 +44,7 @@ export default function Header() {
         {/* LinkedIn */}
 
         <a
-          href="https://linkedin.com/in/mayra-landa23"
+          href="https://linkedin.com/in/www.linkedin.com/in/mayra-landa-7480853a4"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-600 hover:text-sky-500 transition"

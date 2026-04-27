@@ -14,8 +14,10 @@ export default function About() {
           <FaCode className="w-10 h-10" />
           <div>
             <p className="font-bold text-lg">Experience</p>
-            <p className="mt-1 text-base font-normal">2+ Years building coding projects 
-            <br/>React, Node.js, Express, & Tailwind CSS
+            <p className="mt-1 text-base font-normal">
+              2+ Years building coding projects
+              <br />
+              React, Node.js, Express, & Tailwind CSS
             </p>
           </div>
         </div>
@@ -27,7 +29,7 @@ export default function About() {
             <p className="font-bold text-lg">Education</p>
             <p className="mt-1 text-base font-normal">
               B.S. Biology, Microbiology Concentration
-              <br/>
+              <br />
               Minor in Chemistry
               <br />
               San Jose State University
@@ -38,8 +40,11 @@ export default function About() {
 
       {/* Intro paragraph */}
       <p className="text-lg text-gray-700 mb-8 max-w-xl mx-auto">
-        Passionate self-taught frontend developer building sleek, user-friendly web apps
-        with React and Tailwind CSS.
+        Full-stack developer with a focus on SEO-driven web development for
+        local businesses. Experienced in building responsive websites,
+        implementing local SEO strategies, and creating lead-generation flows.
+        Combines technical development skills with marketing-focused thinking to
+        improve online visibility and conversions.
       </p>
 
       {/* View Work button */}
