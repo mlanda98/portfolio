@@ -166,14 +166,6 @@ export default function Projects() {
             >
               GitHub
             </a>
-            <a
-              href="https://shopping-cart-production-15ea.up.railway.app"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-sky-600 hover:bg-sky-700 text-white font-semibold py-2 px-4 rounded transition"
-            >
-              Live Demo
-            </a>
           </div>
         </div>
 
@@ -216,14 +208,6 @@ export default function Projects() {
               className="bg-sky-600 hover:bg-sky-700 text-white font-semibold py-2 px-4 rounded transition"
             >
               GitHub
-            </a>
-            <a
-              href="https://file-uploader-production-d3b1.up.railway.app"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-sky-600 hover:bg-sky-700 text-white font-semibold py-2 px-4 rounded transition"
-            >
-              Live Demo
             </a>
           </div>
         </div>
